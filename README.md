@@ -1,2 +1,2 @@
 # dsa-using-python
-codes related to DSA
+DSA implementation with code using python .
